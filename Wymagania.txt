@@ -1,0 +1,45 @@
+Tutaj są opisane ogólne wymagania dla każdego z modułów wliczając materiały i bardziej zaawansowane narzędzia 
+
+WYMAGANE SĄ ŚREDNIE UMIEJĘTNOŚCI MANUALNE 
+
+
+
+MODUŁ REKUPERACJI 
+  Druarka 3D o polu roboczym xy 22x22 lub wiekszym, nie wymaga komory 
+  Filament PLA km 1KG Może być najtańszy dostępny to w niczym nie przeszkadza 
+  Drut wiązadełkowy lub inna obejma paskowa ale drut tańszy
+  Rura Wentylacyjna 200mm
+
+
+MODUŁ KLIMATYZACJI
+  Druarka 3D o polu roboczym xy 22x22 lub wiekszym, nie wymaga komory 
+  Filament PLA km 1KG Może być najtańszy dostępny to w niczym nie przeszkadza 
+  Drut wiązadełkowy lub inna obejma paskowa ale drut tańszy
+  Rura Wentylacyjna 200mm
+  Dostępna pod ręką aktualnie uszczelka, grubość jakieś 2mm 
+  W zależności od rodzaju klimatyzacji odpowiedniej wielkości sklejka lub inny materiał, sylikon lub akryl
+
+ZAWÓR CZTERODROGOWY 
+
+  Druarka 3D o polu roboczym xy 22x22 lub wiekszym, nie wymaga komory 
+  Filament PLA km 1KG Może być najtańszy dostępny to w niczym nie przeszkadza 
+  Drut wiązadełkowy lub inna obejma paskowa ale drut tańszy
+  Rura Wentylacyjna 200mm
+  Dostępna pod ręką aktualnie uszczelka, grubość jakieś 2mm 
+  Śróba na metry m6 
+  Zestaw nakrętek i podkładek 
+  Śruby m5 z nakrętkami
+  Styropian lub inny materiał izolacyjny do wewnątrz
+  Płyta PVC/PLEXI/inny sztywny izolator termiczny 
+  Styropian lub wełna minerna do zewnątrz 
+  Pojemnik plastikowy do którego zmieści się głowica 
+
+
+  FILTR - Dopiero powstaje
+
+
+
+
+
+
+
